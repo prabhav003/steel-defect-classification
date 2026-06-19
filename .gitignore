@@ -1,0 +1,15 @@
+data/
+*.h5
+*.keras
+*.pt
+*.pth
+
+.ipynb_checkpoints/
+
+__pycache__/
+*.pyc
+
+.vscode/
+.DS_Store
+
+venv/
